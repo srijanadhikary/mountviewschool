@@ -1,1 +1,0 @@
-<?php echo "<h2>Payment Failed</h2>"; ?>
